@@ -1,2 +1,2 @@
 # crypto_labs
-## lab_1 ## *complete*
+## lab_1 - *complete*
